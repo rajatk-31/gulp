@@ -7,11 +7,16 @@ It is a task runner built on Node.js and npm, used for automation of time-consum
 
 General Tasks:-
 
-Minify,
-Uglify,
-Concat,
-Copy,
-Watch
+Minify:- Minify the code by removing the spaces and extra irrelative things.
+
+
+Uglify:- Minify and changes the name of parameters and variables.
+
+Concat:- Join to files or folders.
+
+Copy:- copy content from one place to another.
+
+Watch:- keep an eye on the changes in gulp files and implements them as soon as the file is saved without need to restart the server
 
 
 
